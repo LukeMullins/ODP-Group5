@@ -1,7 +1,7 @@
 var config = {};
 
 config.data_file = "data/world_stats.csv";
-config.column_title = "Some_Column";
+config.column_title = "country";
 
 config.map_height = "400px";
 config.map_width = "800px";
