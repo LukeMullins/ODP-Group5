@@ -1,6 +1,6 @@
 var config = {};
 
-config.data_file = "data/world_stats.csv";
+config.data_file = "data/population.csv";
 config.column_title = "country";
 
 config.map_height = "400px";
